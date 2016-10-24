@@ -1,0 +1,20 @@
+[{
+  "nome":"João de Deus",
+  "nomeUsuario":"jucade"
+  "email":"joaodedeus@gmail.com",
+  "senha":"12345",
+  "cpf":"98778976543"
+},{
+  "nome":"João de tal",
+  "nomeUsuario":"jutal"
+  "email":"joaodetal@gmail.com",
+  "senha":"54321",
+  "cpf":"12398745612"
+},
+{
+  "nome":"fulano de tal",
+  "nomeUsuario":"fultal"
+  "email":"fulanodetal@gmail.com",
+  "senha":"09126",
+  "cpf":"12387634534"
+  }]

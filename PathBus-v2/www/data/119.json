@@ -1,0 +1,1428 @@
+{
+  "id": "119",
+  "tipo": "0",
+  "nome": "Bengui­ - Ver-o-Peso",
+  "codigo": "664",
+  "url": "bengui­-ver-o-peso",
+  "sincronizacaoCodigo": "2",
+  "completa": "false",
+  "itinerario": [
+    {
+      "id": "10095",
+      "latitude": "-1.3707308305785375",
+      "longitude": "-48.463784605264664",
+      "posicao": "0",
+      "tipo": "IDA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10096",
+      "latitude": "-1.37639402826728",
+      "longitude": "-48.4572775661945",
+      "posicao": "5",
+      "tipo": "IDA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10097",
+      "latitude": "-1.37171760083794",
+      "longitude": "-48.44910219311709",
+      "posicao": "9",
+      "tipo": "IDA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10098",
+      "latitude": "-1.4056275238439502",
+      "longitude": "-48.4357944130898",
+      "posicao": "25",
+      "tipo": "IDA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10099",
+      "latitude": "-1.408699738046782",
+      "longitude": "-48.44521835446358",
+      "posicao": "29",
+      "tipo": "IDA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10100",
+      "latitude": "-1.4144915513104799",
+      "longitude": "-48.444209843874",
+      "posicao": "31",
+      "tipo": "IDA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10101",
+      "latitude": "-1.4366022012711601",
+      "longitude": "-48.4593321382999",
+      "posicao": "41",
+      "tipo": "IDA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10102",
+      "latitude": "-1.426881893947",
+      "longitude": "-48.478597775101704",
+      "posicao": "51",
+      "tipo": "IDA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10103",
+      "latitude": "-1.42972415213494",
+      "longitude": "-48.4832326322794",
+      "posicao": "53",
+      "tipo": "IDA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10104",
+      "latitude": "-1.4360629114834298",
+      "longitude": "-48.4848848730326",
+      "posicao": "56",
+      "tipo": "IDA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10105",
+      "latitude": "-1.43659918473448",
+      "longitude": "-48.4871486574411",
+      "posicao": "57",
+      "tipo": "IDA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10106",
+      "latitude": "-1.4427555926274767",
+      "longitude": "-48.49092520773411",
+      "posicao": "59",
+      "tipo": "IDA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10107",
+      "latitude": "-1.44057832832194",
+      "longitude": "-48.494433537125595",
+      "posicao": "61",
+      "tipo": "VOLTA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10108",
+      "latitude": "-1.4512585003120384",
+      "longitude": "-48.5023172199725",
+      "posicao": "64",
+      "tipo": "VOLTA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10109",
+      "latitude": "-1.45341664977485",
+      "longitude": "-48.5034028440714",
+      "posicao": "66",
+      "tipo": "VOLTA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10110",
+      "latitude": "-1.4584683001465246",
+      "longitude": "-48.49844612181187",
+      "posicao": "69",
+      "tipo": "VOLTA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10111",
+      "latitude": "-1.4552506897535173",
+      "longitude": "-48.4920410066843",
+      "posicao": "73",
+      "tipo": "VOLTA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10112",
+      "latitude": "-1.4549718299698136",
+      "longitude": "-48.480979576706886",
+      "posicao": "77",
+      "tipo": "VOLTA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10113",
+      "latitude": "-1.45453208947163",
+      "longitude": "-48.468877449631705",
+      "posicao": "82",
+      "tipo": "VOLTA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10114",
+      "latitude": "-1.45136810043538",
+      "longitude": "-48.4689632803202",
+      "posicao": "83",
+      "tipo": "VOLTA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10115",
+      "latitude": "-1.39464447590416",
+      "longitude": "-48.4348931908607",
+      "posicao": "108",
+      "tipo": "VOLTA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10116",
+      "latitude": "-1.37154129612715",
+      "longitude": "-48.449098169803605",
+      "posicao": "118",
+      "tipo": "VOLTA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10117",
+      "latitude": "-1.3778527285262",
+      "longitude": "-48.462513238191605",
+      "posicao": "129",
+      "tipo": "VOLTA",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "10118",
+      "latitude": "-1.3707469192273263",
+      "longitude": "-48.46378996968269",
+      "posicao": "132",
+      "tipo": "VOLTA",
+      "proximidade": "999.0"
+    }
+  ],
+  "itinerarioTotalEncoding": "bvjGtqxfHjb@ug@g\\ar@|rEerAdRzy@fc@iEdiCp}Aw{@jwBvP~[rf@hIhBbMne@rVsL|TvaAfp@nLxEp^_^aS_g@w@edAwAsjAyRPoaJ}sEkoCvwAlf@zrAmk@|F",
+  "paradas": [
+    {
+      "id": "38",
+      "latitude": "-1.43883778902683",
+      "longitude": "-48.460323214530895",
+      "status": "1",
+      "title": "Em frente ao IFPA",
+      "comments": "- Próximo a passarela.\r\n- Próximo ao colégio estadual Visconde de Souza Franco.\r\n",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "39",
+      "latitude": "-1.43644064896774",
+      "longitude": "-48.458713889122",
+      "status": "1",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "61",
+      "latitude": "-1.43927753256749",
+      "longitude": "-48.4602642059326",
+      "status": "1",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "60",
+      "latitude": "-1.43663907005249",
+      "longitude": "-48.4585475921631",
+      "status": "1",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "56",
+      "latitude": "-1.4422645687626",
+      "longitude": "-48.462184667587294",
+      "status": "1",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "62",
+      "latitude": "-1.4289918017470669",
+      "longitude": "-48.4538859128952",
+      "status": "1",
+      "title": "Para prox. a Perebebui",
+      "comments": "",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "110",
+      "latitude": "-1.43084731239024",
+      "longitude": "-48.483581151813304",
+      "status": "1",
+      "title": "",
+      "comments": "",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "248",
+      "latitude": "-1.43522867115714",
+      "longitude": "-48.4611459821463",
+      "status": "1",
+      "title": "",
+      "comments": "Em frente a uma farmácia (Extra Farma, não há cobertura.",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "249",
+      "latitude": "-1.43349114432598",
+      "longitude": "-48.4636887162924",
+      "status": "1",
+      "title": "",
+      "comments": "Sem cobertura e sem local para sentar. Em frente a uma banca e uma tapiocaria (durante as manhãs.",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "361",
+      "latitude": "-1.4117075947218647",
+      "longitude": "-48.44184312969446",
+      "status": "1",
+      "title": "Depois do colegio Da vinci",
+      "comments": "Primeira Parada Seletiva",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "398",
+      "latitude": "-1.409369417192645",
+      "longitude": "-48.44001369550824",
+      "status": "1",
+      "title": "Prox. aos Correios",
+      "comments": "",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "362",
+      "latitude": "-1.4099700501766697",
+      "longitude": "-48.44019088894129",
+      "status": "1",
+      "title": "Cidade Folia",
+      "comments": "",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "565",
+      "latitude": "-1.37644698661031",
+      "longitude": "-48.45119833946228",
+      "status": "1",
+      "title": "Em frente ao Manolito",
+      "comments": "",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "566",
+      "latitude": "-1.3693465360171",
+      "longitude": "-48.44688534736633",
+      "status": "1",
+      "title": "Próx. ao Parque Shopping",
+      "comments": "",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "567",
+      "latitude": "-1.3720413847406396",
+      "longitude": "-48.44330191612244",
+      "status": "1",
+      "title": "Em frente ao Supermercado Líder Augusto Montenegro",
+      "comments": "",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "572",
+      "latitude": "-1.4203684840889645",
+      "longitude": "-48.448218908160925",
+      "status": "1",
+      "title": "Próximo ao SETRAN",
+      "comments": "",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    }
+  ],
+  "pontosPesquisa": [
+    {
+      "id": "4218",
+      "latitude": "-1.37073",
+      "longitude": "-48.4638",
+      "posicao": "0",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4219",
+      "latitude": "-1.37358",
+      "longitude": "-48.46339",
+      "posicao": "1",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4220",
+      "latitude": "-1.37617",
+      "longitude": "-48.46302",
+      "posicao": "2",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4221",
+      "latitude": "-1.37772",
+      "longitude": "-48.46205",
+      "posicao": "3",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4222",
+      "latitude": "-1.37676",
+      "longitude": "-48.45974",
+      "posicao": "4",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4223",
+      "latitude": "-1.37636",
+      "longitude": "-48.45728",
+      "posicao": "5",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4224",
+      "latitude": "-1.37618",
+      "longitude": "-48.45451",
+      "posicao": "6",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4225",
+      "latitude": "-1.37628",
+      "longitude": "-48.45161",
+      "posicao": "7",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4226",
+      "latitude": "-1.3747",
+      "longitude": "-48.45039",
+      "posicao": "8",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4227",
+      "latitude": "-1.37247",
+      "longitude": "-48.44928",
+      "posicao": "9",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4228",
+      "latitude": "-1.36912",
+      "longitude": "-48.44631",
+      "posicao": "10",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4229",
+      "latitude": "-1.37046",
+      "longitude": "-48.44466",
+      "posicao": "11",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4230",
+      "latitude": "-1.37275",
+      "longitude": "-48.44306",
+      "posicao": "12",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4231",
+      "latitude": "-1.37503",
+      "longitude": "-48.44187",
+      "posicao": "13",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4232",
+      "latitude": "-1.37732",
+      "longitude": "-48.44085",
+      "posicao": "14",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4233",
+      "latitude": "-1.3803",
+      "longitude": "-48.43949",
+      "posicao": "15",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4234",
+      "latitude": "-1.38265",
+      "longitude": "-48.43841",
+      "posicao": "16",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4235",
+      "latitude": "-1.38534",
+      "longitude": "-48.43716",
+      "posicao": "17",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4236",
+      "latitude": "-1.38801",
+      "longitude": "-48.43583",
+      "posicao": "18",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4237",
+      "latitude": "-1.39081",
+      "longitude": "-48.43542",
+      "posicao": "19",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4238",
+      "latitude": "-1.39326",
+      "longitude": "-48.43522",
+      "posicao": "20",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4239",
+      "latitude": "-1.39633",
+      "longitude": "-48.43496",
+      "posicao": "21",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4240",
+      "latitude": "-1.39885",
+      "longitude": "-48.43476",
+      "posicao": "22",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4241",
+      "latitude": "-1.4018",
+      "longitude": "-48.43478",
+      "posicao": "23",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4242",
+      "latitude": "-1.40426",
+      "longitude": "-48.43532",
+      "posicao": "24",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4243",
+      "latitude": "-1.40612",
+      "longitude": "-48.43662",
+      "posicao": "25",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4244",
+      "latitude": "-1.40667",
+      "longitude": "-48.43902",
+      "posicao": "26",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4245",
+      "latitude": "-1.40725",
+      "longitude": "-48.4414",
+      "posicao": "27",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4246",
+      "latitude": "-1.40783",
+      "longitude": "-48.44377",
+      "posicao": "28",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4247",
+      "latitude": "-1.40871",
+      "longitude": "-48.44523",
+      "posicao": "29",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4248",
+      "latitude": "-1.41131",
+      "longitude": "-48.44298",
+      "posicao": "30",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4249",
+      "latitude": "-1.41336",
+      "longitude": "-48.44342",
+      "posicao": "31",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4250",
+      "latitude": "-1.41576",
+      "longitude": "-48.44513",
+      "posicao": "32",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4251",
+      "latitude": "-1.41799",
+      "longitude": "-48.4466",
+      "posicao": "33",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4252",
+      "latitude": "-1.42009",
+      "longitude": "-48.44798",
+      "posicao": "34",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4253",
+      "latitude": "-1.42237",
+      "longitude": "-48.44947",
+      "posicao": "35",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4254",
+      "latitude": "-1.42455",
+      "longitude": "-48.45092",
+      "posicao": "36",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4255",
+      "latitude": "-1.42668",
+      "longitude": "-48.45231",
+      "posicao": "37",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4256",
+      "latitude": "-1.42934",
+      "longitude": "-48.45401",
+      "posicao": "38",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4257",
+      "latitude": "-1.43151",
+      "longitude": "-48.45546",
+      "posicao": "39",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4258",
+      "latitude": "-1.43377",
+      "longitude": "-48.45696",
+      "posicao": "40",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4259",
+      "latitude": "-1.43621",
+      "longitude": "-48.45858",
+      "posicao": "41",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4260",
+      "latitude": "-1.43581",
+      "longitude": "-48.4605",
+      "posicao": "42",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4261",
+      "latitude": "-1.43438",
+      "longitude": "-48.46262",
+      "posicao": "43",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4262",
+      "latitude": "-1.43304",
+      "longitude": "-48.46465",
+      "posicao": "44",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4263",
+      "latitude": "-1.43167",
+      "longitude": "-48.46666",
+      "posicao": "45",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4264",
+      "latitude": "-1.43009",
+      "longitude": "-48.46902",
+      "posicao": "46",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4265",
+      "latitude": "-1.42867",
+      "longitude": "-48.47111",
+      "posicao": "47",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4266",
+      "latitude": "-1.42732",
+      "longitude": "-48.47313",
+      "posicao": "48",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4267",
+      "latitude": "-1.42581",
+      "longitude": "-48.4754",
+      "posicao": "49",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4268",
+      "latitude": "-1.42495",
+      "longitude": "-48.47733",
+      "posicao": "50",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4269",
+      "latitude": "-1.4271",
+      "longitude": "-48.47878",
+      "posicao": "51",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4270",
+      "latitude": "-1.42935",
+      "longitude": "-48.4803",
+      "posicao": "52",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4271",
+      "latitude": "-1.43019",
+      "longitude": "-48.48219",
+      "posicao": "53",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4272",
+      "latitude": "-1.43083",
+      "longitude": "-48.48359",
+      "posicao": "54",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4273",
+      "latitude": "-1.43377",
+      "longitude": "-48.48434",
+      "posicao": "55",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4274",
+      "latitude": "-1.43606",
+      "longitude": "-48.48552",
+      "posicao": "56",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4275",
+      "latitude": "-1.43706",
+      "longitude": "-48.48742",
+      "posicao": "57",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4276",
+      "latitude": "-1.43931",
+      "longitude": "-48.48859",
+      "posicao": "58",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4277",
+      "latitude": "-1.44293",
+      "longitude": "-48.49046",
+      "posicao": "59",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4278",
+      "latitude": "-1.44149",
+      "longitude": "-48.49266",
+      "posicao": "60",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4279",
+      "latitude": "-1.44158",
+      "longitude": "-48.4948",
+      "posicao": "61",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4280",
+      "latitude": "-1.44413",
+      "longitude": "-48.49599",
+      "posicao": "62",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4281",
+      "latitude": "-1.44723",
+      "longitude": "-48.4981",
+      "posicao": "63",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4282",
+      "latitude": "-1.44897",
+      "longitude": "-48.49978",
+      "posicao": "64",
+      "tipo": "IDA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4283",
+      "latitude": "-1.45085",
+      "longitude": "-48.50183",
+      "posicao": "65",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4284",
+      "latitude": "-1.45258",
+      "longitude": "-48.5036",
+      "posicao": "66",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4285",
+      "latitude": "-1.45466",
+      "longitude": "-48.50264",
+      "posicao": "67",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4286",
+      "latitude": "-1.45696",
+      "longitude": "-48.50085",
+      "posicao": "68",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4287",
+      "latitude": "-1.45896",
+      "longitude": "-48.49927",
+      "posicao": "69",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4288",
+      "latitude": "-1.45748",
+      "longitude": "-48.49687",
+      "posicao": "70",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4289",
+      "latitude": "-1.45614",
+      "longitude": "-48.4948",
+      "posicao": "71",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4290",
+      "latitude": "-1.45413",
+      "longitude": "-48.49287",
+      "posicao": "72",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4291",
+      "latitude": "-1.45626",
+      "longitude": "-48.49135",
+      "posicao": "73",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4292",
+      "latitude": "-1.45626",
+      "longitude": "-48.48942",
+      "posicao": "74",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4293",
+      "latitude": "-1.45589",
+      "longitude": "-48.48688",
+      "posicao": "75",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4294",
+      "latitude": "-1.45553",
+      "longitude": "-48.48443",
+      "posicao": "76",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4295",
+      "latitude": "-1.45511",
+      "longitude": "-48.48159",
+      "posicao": "77",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4296",
+      "latitude": "-1.45495",
+      "longitude": "-48.47898",
+      "posicao": "78",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4297",
+      "latitude": "-1.45489",
+      "longitude": "-48.47624",
+      "posicao": "79",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4298",
+      "latitude": "-1.45474",
+      "longitude": "-48.47316",
+      "posicao": "80",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4299",
+      "latitude": "-1.45462",
+      "longitude": "-48.47069",
+      "posicao": "81",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4300",
+      "latitude": "-1.4533",
+      "longitude": "-48.46893",
+      "posicao": "82",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4301",
+      "latitude": "-1.45101",
+      "longitude": "-48.4686",
+      "posicao": "83",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4302",
+      "latitude": "-1.44832",
+      "longitude": "-48.46641",
+      "posicao": "84",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4303",
+      "latitude": "-1.44602",
+      "longitude": "-48.46487",
+      "posicao": "85",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4304",
+      "latitude": "-1.44374",
+      "longitude": "-48.46337",
+      "posicao": "86",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4305",
+      "latitude": "-1.44167",
+      "longitude": "-48.46198",
+      "posicao": "87",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4306",
+      "latitude": "-1.4394",
+      "longitude": "-48.46048",
+      "posicao": "88",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4307",
+      "latitude": "-1.43705",
+      "longitude": "-48.4589",
+      "posicao": "89",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4308",
+      "latitude": "-1.43473",
+      "longitude": "-48.45739",
+      "posicao": "90",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4309",
+      "latitude": "-1.43247",
+      "longitude": "-48.45587",
+      "posicao": "91",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4310",
+      "latitude": "-1.43037",
+      "longitude": "-48.45449",
+      "posicao": "92",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4311",
+      "latitude": "-1.42825",
+      "longitude": "-48.45303",
+      "posicao": "93",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4312",
+      "latitude": "-1.42606",
+      "longitude": "-48.45164",
+      "posicao": "94",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4313",
+      "latitude": "-1.42398",
+      "longitude": "-48.45029",
+      "posicao": "95",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4314",
+      "latitude": "-1.4219",
+      "longitude": "-48.44894",
+      "posicao": "96",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4315",
+      "latitude": "-1.41986",
+      "longitude": "-48.44761",
+      "posicao": "97",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4316",
+      "latitude": "-1.41729",
+      "longitude": "-48.44593",
+      "posicao": "98",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4317",
+      "latitude": "-1.41491",
+      "longitude": "-48.44431",
+      "posicao": "99",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4318",
+      "latitude": "-1.41293",
+      "longitude": "-48.44288",
+      "posicao": "100",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4319",
+      "latitude": "-1.41081",
+      "longitude": "-48.4413",
+      "posicao": "101",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4320",
+      "latitude": "-1.40929",
+      "longitude": "-48.43932",
+      "posicao": "102",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4321",
+      "latitude": "-1.40828",
+      "longitude": "-48.43696",
+      "posicao": "103",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4322",
+      "latitude": "-1.40623",
+      "longitude": "-48.4355",
+      "posicao": "104",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4323",
+      "latitude": "-1.40358",
+      "longitude": "-48.43504",
+      "posicao": "105",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4324",
+      "latitude": "-1.4011",
+      "longitude": "-48.43446",
+      "posicao": "106",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4325",
+      "latitude": "-1.39851",
+      "longitude": "-48.43461",
+      "posicao": "107",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4326",
+      "latitude": "-1.39563",
+      "longitude": "-48.43483",
+      "posicao": "108",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4327",
+      "latitude": "-1.39102",
+      "longitude": "-48.43523",
+      "posicao": "109",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4328",
+      "latitude": "-1.38848",
+      "longitude": "-48.43548",
+      "posicao": "110",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4329",
+      "latitude": "-1.3862",
+      "longitude": "-48.43651",
+      "posicao": "111",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4330",
+      "latitude": "-1.38395",
+      "longitude": "-48.43753",
+      "posicao": "112",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4331",
+      "latitude": "-1.3815",
+      "longitude": "-48.43867",
+      "posicao": "113",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4332",
+      "latitude": "-1.37916",
+      "longitude": "-48.43977",
+      "posicao": "114",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4333",
+      "latitude": "-1.37693",
+      "longitude": "-48.44078",
+      "posicao": "115",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4334",
+      "latitude": "-1.37465",
+      "longitude": "-48.44185",
+      "posicao": "116",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4335",
+      "latitude": "-1.37167",
+      "longitude": "-48.44366",
+      "posicao": "117",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4336",
+      "latitude": "-1.36882",
+      "longitude": "-48.44569",
+      "posicao": "118",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4337",
+      "latitude": "-1.36675",
+      "longitude": "-48.44717",
+      "posicao": "119",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4338",
+      "latitude": "-1.36671",
+      "longitude": "-48.44738",
+      "posicao": "120",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4339",
+      "latitude": "-1.3687",
+      "longitude": "-48.44602",
+      "posicao": "121",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4340",
+      "latitude": "-1.37071",
+      "longitude": "-48.4485",
+      "posicao": "122",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4341",
+      "latitude": "-1.37287",
+      "longitude": "-48.44933",
+      "posicao": "123",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4342",
+      "latitude": "-1.37499",
+      "longitude": "-48.45052",
+      "posicao": "124",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4343",
+      "latitude": "-1.37621",
+      "longitude": "-48.4523",
+      "posicao": "125",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4344",
+      "latitude": "-1.37621",
+      "longitude": "-48.45531",
+      "posicao": "126",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4345",
+      "latitude": "-1.37646",
+      "longitude": "-48.45812",
+      "posicao": "127",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4346",
+      "latitude": "-1.37704",
+      "longitude": "-48.46066",
+      "posicao": "128",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4347",
+      "latitude": "-1.37755",
+      "longitude": "-48.46284",
+      "posicao": "129",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4348",
+      "latitude": "-1.37492",
+      "longitude": "-48.46318",
+      "posicao": "130",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4349",
+      "latitude": "-1.37199",
+      "longitude": "-48.46361",
+      "posicao": "131",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    },
+    {
+      "id": "4350",
+      "latitude": "-1.37073",
+      "longitude": "-48.4638",
+      "posicao": "132",
+      "tipo": "VOLTA",
+      "zIndex": "1"
+    }
+  ],
+  "emAvaliacao": "false",
+  "faltaCadastrarPontosPesquisa": "false",
+  "tipoDeRota": "Onibus",
+  "distanciaAproximada": "0.0"
+}

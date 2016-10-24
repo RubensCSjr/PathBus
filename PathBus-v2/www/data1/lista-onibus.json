@@ -1,0 +1,65 @@
+{
+  "Linha":{
+    "codigo":"318",
+    "nome":"Arsenal"
+  },
+  "Terminal":"Rua Jabatiteua esquina com Pass. São Francisco.",
+  "Rotas":{
+    "Sentido1":"Bairro - Centro",
+    "Rodovias/Avenidas/Ruas":[
+      "Rua Jabatiteua", "Trav. Francisco Monteiro", "Av. Ceará", "Av. Gov. José Malcher",
+      "Av. Assis de Vasconcelos", "Av. Marechal Hermes", "Av. Boulevard Castilhos França", "Av. Portugal", "Rua Padre Champagnat",
+      "Rua Dr Assis", "Av. Almte. Tamandaré", "Rua do Arsenal", "Av. Bernardo Sayão", "Rua Eng.o Fernando Guilhon",
+      "Rua Honório José dos Santos", "Retorno na Rua Nova I."
+    ],
+    "Sentido2":"Centro - Bairro",
+    "Rodovias/Avenidas/Ruas":[
+      "Rua Honório José dos Santos", "Rua Eng.o Fernando Guilhon", "Av. Bernardo Sayão",
+      "Rua do Arsenal"," Rua de Óbidos", "Rua Ângelo Custódio", "Av. Almte. Tamandaré (pista esquerda)", "Av. Pe. Eutíquio",
+      "Rua João Diogo", "Trav. São Pedro", "Av. Almte. Tamandaré", "Rua Gama Abreu", "Av. Serzedelo Corrêa", "Av. Gentil Bittencourt",
+      "Av. José Bonifácio", "Av. Almte. Barroso", "Rua Cipriano Santos", "Trav. Francisco Monteiro", "Rua do Jabatiteua."]
+    }
+  },
+  {
+    "Linha":{
+      "codigo":"328",
+      "nome":"CIPRIANO SANTOS - PTE. VARGAS."
+    },
+    "Terminal":"Rua Cipriano Santos com Av. Perimetral.",
+    "Rotas":{
+      "Sentido1":"Canudos - Condor",
+      "Rodovias/Avenidas/Ruas":[
+        "Rua Cipriano Santos", "Trav. 2 O de Queluz", "Av. Ceará", "Av. Gov. José Malcher",
+        "Av. Visconde de Souza Franco", "Av. Marechal Hermes", "Tv. Piedade",
+        "Av. Boulevard Castilhos França(estação Waldemar Henrique)", "Av. Boulevard Castilhos França", "Av. Pte. Vargas",
+        "Av. Serzedelo Corrêa", "Rua do Pariquis", "Tv Apinagés", "Tv. Apinagés", "Rua Eng. Fernando Guilhon",
+        "Av. Bernardo Sayão", "retorno na Pça. da Princesa Isabel."
+      ],
+      "Sentido2":"Condor - Canudos",
+      "Rodovias/Avenidas/Ruas":[
+        "Av. Bernardo Sayão", "Rua dos Mundurucus", "Av. Padre Eutíquio", "Rua João Diogo", "Tv. São Pedro", "Av. Almte. Tamandaré",
+        "Rua Gama Abreu", "Av. Serzedelo Corrêa", "Av. Gentil Bittencourt", "Av. José Bonifácio", "Av. Almte. Barroso", "Rua Cipriano Santos."
+      ]
+      }
+    },
+    {
+      "Linha":{
+        "codigo":"912",
+        "nome":"CASTANHEIRA / PÁTIO BELÉM (SELETIVA)"
+      },
+      "Terminal":"Não cadastrado",
+      "Rotas":{
+        "Sentido1":"Castanheira – Pátio Belém",
+        "Rodovias/Avenidas/Ruas":[
+          "Rodovia BR-316", "Acesso a pista do túnel do Complexo Viário doEntroncamento", "Av. Almirante Barroso",
+          "Av. Governador José Malcher", "Av. Generalíssimo Deodoro","Av. Comandante Brás de Aguiar", "Av. Serzedelo Corrêa",
+          "Rua dos Pariquis", "Av. Padre Eutíquio", "Rua João Diogo", "Av. Cel. Fontoura", "Tv. Felix Roque", "Rua Tomázia Perdigão", "Tv. Pe. Champagnat."
+        ],
+        "Sentido2":"Pátio Belém - Castanheira",
+        "Rodovias/Avenidas/Ruas":[
+          "Av. Portugal", "Rua 13 de Maio", "Av. Presidente Vargas", "Av. Nazaré", "Av. Magalhães Barata",
+          "Av. Almirante Barroso", "Acesso ao túnel do Complexo Viário do Entroncamento",
+          "Rodovia BR-316", "retorno em frenet a Viação ItapemirimLtda", "Rod. BR-316."
+        ]
+        }
+      },

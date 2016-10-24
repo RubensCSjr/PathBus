@@ -1,0 +1,199 @@
+{
+  "id": "621",
+  "tipo": "0",
+  "nome": "Sacramenta Humaitá",
+  "codigo": "227",
+  "url": "sacramenta-humaita",
+  "sincronizacaoCodigo": "4",
+  "completa": "true",
+  "comentario": "",
+  "itinerario": [
+    {
+      "id": "23933",
+      "latitude": "-1.4166628072131071",
+      "longitude": "-48.46458274121687",
+      "posicao": "0",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23934",
+      "latitude": "-1.410130933985359",
+      "longitude": "-48.46548396344588",
+      "posicao": "1",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23935",
+      "latitude": "-1.4195372546260243",
+      "longitude": "-48.48229604955122",
+      "posicao": "2",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23936",
+      "latitude": "-1.4180785802656084",
+      "longitude": "-48.477779209570144",
+      "posicao": "3",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23937",
+      "latitude": "-1.4262943370696282",
+      "longitude": "-48.47740370030806",
+      "posicao": "4",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23938",
+      "latitude": "-1.4376848025116815",
+      "longitude": "-48.47888427968428",
+      "posicao": "5",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23939",
+      "latitude": "-1.4334804188476096",
+      "longitude": "-48.47468930478499",
+      "posicao": "6",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23940",
+      "latitude": "-1.4425005283668595",
+      "longitude": "-48.462791025594925",
+      "posicao": "7",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23941",
+      "latitude": "-1.4515206021271843",
+      "longitude": "-48.4937570389593",
+      "posicao": "8",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23942",
+      "latitude": "-1.4543092026772482",
+      "longitude": "-48.502938329475",
+      "posicao": "9",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23943",
+      "latitude": "-1.45852427311997",
+      "longitude": "-48.498550235526636",
+      "posicao": "10",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23944",
+      "latitude": "-1.4557893046467598",
+      "longitude": "-48.49170523877541",
+      "posicao": "11",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23945",
+      "latitude": "-1.4551457821706577",
+      "longitude": "-48.48188835378096",
+      "posicao": "12",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23946",
+      "latitude": "-1.4413958081906173",
+      "longitude": "-48.460168002638966",
+      "posicao": "13",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23947",
+      "latitude": "-1.4324078707576822",
+      "longitude": "-48.47480213502416",
+      "posicao": "14",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23948",
+      "latitude": "-1.425972571688154",
+      "longitude": "-48.46984541407437",
+      "posicao": "15",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23949",
+      "latitude": "-1.4272703584515092",
+      "longitude": "-48.47326791277732",
+      "posicao": "16",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23950",
+      "latitude": "-1.419966276321648",
+      "longitude": "-48.48057425013394",
+      "posicao": "17",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23951",
+      "latitude": "-1.4176978232040158",
+      "longitude": "-48.468842267902744",
+      "posicao": "18",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "23952",
+      "latitude": "-1.4168022394460889",
+      "longitude": "-48.46440035100386",
+      "posicao": "19",
+      "proximidade": "999.0"
+    }
+  ],
+  "itinerarioTotalEncoding": "dusGtvxfHyg@rDvy@`hBcHg[jr@iAdfAfHgYgYjw@iiAjw@n`EjPjx@jYkZcPyi@_Ck|@}tAwfCew@nzAeg@_^bGjTul@tl@eMihAqDwZ",
+  "paradas": [
+    {
+      "id": "58",
+      "latitude": "-1.44206614816735",
+      "longitude": "-48.4617555141449",
+      "status": "1",
+      "title": "",
+      "comments": "",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "57",
+      "latitude": "-1.44215999574834",
+      "longitude": "-48.45908403396609",
+      "status": "1",
+      "title": "",
+      "comments": "",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "59",
+      "latitude": "-1.43854552040719",
+      "longitude": "-48.467052876949296",
+      "status": "1",
+      "title": "",
+      "comments": "",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    },
+    {
+      "id": "34",
+      "latitude": "-1.4431655053017531",
+      "longitude": "-48.459362983703606",
+      "status": "1",
+      "title": "Em frente ao Curso Exemplo",
+      "comments": "",
+      "tipoDeRotaDaParada": "Onibus",
+      "distanciaAproximada": "0.0"
+    }
+  ],
+  "emAvaliacao": "false",
+  "faltaCadastrarPontosPesquisa": "true",
+  "tipoDeRota": "Onibus",
+  "distanciaAproximada": "0.0"
+}

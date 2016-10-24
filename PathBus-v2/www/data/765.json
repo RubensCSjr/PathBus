@@ -1,0 +1,164 @@
+{
+  "id": "765",
+  "tipo": "0",
+  "nome": "Icoaraci - Ver-o-Peso (Paracuri II",
+  "codigo": "870",
+  "url": "icoaraci--ver-o-peso-paracuri-ii",
+  "sincronizacaoCodigo": "3",
+  "completa": "false",
+  "lastUpdate": "2015-10-18T00:41:18Z",
+  "itinerario": [
+    {
+      "id": "27700",
+      "latitude": "-1.312166772435105",
+      "longitude": "-48.471092390955164",
+      "posicao": "0",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27701",
+      "latitude": "-1.3119897930554931",
+      "longitude": "-48.4697673795381",
+      "posicao": "1",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27702",
+      "latitude": "-1.3109332795289075",
+      "longitude": "-48.46875350469418",
+      "posicao": "2",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27703",
+      "latitude": "-1.2996333836951905",
+      "longitude": "-48.47541074763285",
+      "posicao": "3",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27704",
+      "latitude": "-1.3005021957109753",
+      "longitude": "-48.487274265498854",
+      "posicao": "4",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27705",
+      "latitude": "-1.330266869831124",
+      "longitude": "-48.48108372709237",
+      "posicao": "5",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27706",
+      "latitude": "-1.4318179690941817",
+      "longitude": "-48.48670563718764",
+      "posicao": "6",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27707",
+      "latitude": "-1.4359901794140548",
+      "longitude": "-48.48735494655557",
+      "posicao": "7",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27708",
+      "latitude": "-1.4404734200600546",
+      "longitude": "-48.494049740256685",
+      "posicao": "8",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27709",
+      "latitude": "-1.458835308539869",
+      "longitude": "-48.498942089499906",
+      "posicao": "9",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27710",
+      "latitude": "-1.4472840677894239",
+      "longitude": "-48.495996809215285",
+      "posicao": "10",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27711",
+      "latitude": "-1.4442273229075402",
+      "longitude": "-48.489237642497756",
+      "posicao": "11",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27712",
+      "latitude": "-1.4361188850098796",
+      "longitude": "-48.48644814512227",
+      "posicao": "12",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27713",
+      "latitude": "-1.4287933799999624",
+      "longitude": "-48.486480330320774",
+      "posicao": "13",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27714",
+      "latitude": "-1.2984642411281715",
+      "longitude": "-48.48737640422763",
+      "posicao": "14",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27715",
+      "latitude": "-1.2976597849193583",
+      "longitude": "-48.476277208537624",
+      "posicao": "15",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27716",
+      "latitude": "-1.2997245553405068",
+      "longitude": "-48.47480199357943",
+      "posicao": "16",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27717",
+      "latitude": "-1.301580165759247",
+      "longitude": "-48.469748711795376",
+      "posicao": "17",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27718",
+      "latitude": "-1.3117001904072894",
+      "longitude": "-48.46914253255807",
+      "posicao": "18",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27719",
+      "latitude": "-1.3119897930554931",
+      "longitude": "-48.469735193357224",
+      "posicao": "19",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "27720",
+      "latitude": "-1.3121828614689952",
+      "longitude": "-48.47123723040562",
+      "posicao": "20",
+      "proximidade": "999.0"
+    }
+  ],
+  "itinerarioTotalEncoding": "",
+  "emAvaliacao": "false",
+  "faltaCadastrarPontosPesquisa": "true",
+  "tipoDeRota": "Onibus",
+  "distanciaAproximada": "0.0"
+}

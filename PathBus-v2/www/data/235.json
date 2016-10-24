@@ -1,0 +1,506 @@
+{
+  "id": "235",
+  "tipo": "0",
+  "nome": "Satélite - Felipe Patroni",
+  "codigo": "761",
+  "url": "satelite-felipe-patroni",
+  "sincronizacaoCodigo": "2",
+  "completa": "false",
+  "itinerario": [
+    {
+      "id": "18397",
+      "latitude": "-1.3391586617458502",
+      "longitude": "-48.4369782730937",
+      "posicao": "0",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18398",
+      "latitude": "-1.34049939959089",
+      "longitude": "-48.43726795166731",
+      "posicao": "1",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18399",
+      "latitude": "-1.340038185854991",
+      "longitude": "-48.43846153467911",
+      "posicao": "2",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18400",
+      "latitude": "-1.3388047068323474",
+      "longitude": "-48.4386653825639",
+      "posicao": "3",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18401",
+      "latitude": "-1.3387403513880498",
+      "longitude": "-48.441355638206",
+      "posicao": "4",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18402",
+      "latitude": "-1.3391050322167801",
+      "longitude": "-48.4434477612376",
+      "posicao": "5",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18403",
+      "latitude": "-1.3394160834689999",
+      "longitude": "-48.443694524467006",
+      "posicao": "6",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18404",
+      "latitude": "-1.34083190246288",
+      "longitude": "-48.443404845893404",
+      "posicao": "7",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18405",
+      "latitude": "-1.3411858570834299",
+      "longitude": "-48.4440271183848",
+      "posicao": "8",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18406",
+      "latitude": "-1.3415827152334798",
+      "longitude": "-48.4449283406138",
+      "posicao": "9",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18407",
+      "latitude": "-1.3441140251613701",
+      "longitude": "-48.44453891739251",
+      "posicao": "10",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18408",
+      "latitude": "-1.34477366693635",
+      "longitude": "-48.4446140192449",
+      "posicao": "11",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18409",
+      "latitude": "-1.35208334392052",
+      "longitude": "-48.4530576132238",
+      "posicao": "12",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18410",
+      "latitude": "-1.39642359372678",
+      "longitude": "-48.434896878898094",
+      "posicao": "13",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18411",
+      "latitude": "-1.41256027814416",
+      "longitude": "-48.44281693920493",
+      "posicao": "14",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18412",
+      "latitude": "-1.4435301699899499",
+      "longitude": "-48.4633604809642",
+      "posicao": "15",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18413",
+      "latitude": "-1.44461343827757",
+      "longitude": "-48.4660426899791",
+      "posicao": "16",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18414",
+      "latitude": "-1.44233964682116",
+      "longitude": "-48.4709135815501",
+      "posicao": "17",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18415",
+      "latitude": "-1.44262923359524",
+      "longitude": "-48.4713212773204",
+      "posicao": "18",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18416",
+      "latitude": "-1.44453836029408",
+      "longitude": "-48.4709457680583",
+      "posicao": "19",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18417",
+      "latitude": "-1.4557249524074198",
+      "longitude": "-48.4706239029765",
+      "posicao": "20",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18418",
+      "latitude": "-1.45629339712474",
+      "longitude": "-48.470988683402496",
+      "posicao": "21",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18419",
+      "latitude": "-1.4565615313756102",
+      "longitude": "-48.481331281364",
+      "posicao": "22",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18420",
+      "latitude": "-1.45743028612923",
+      "longitude": "-48.488144092261805",
+      "posicao": "23",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18421",
+      "latitude": "-1.45791292751421",
+      "longitude": "-48.4891311451793",
+      "posicao": "24",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18422",
+      "latitude": "-1.45877095638756",
+      "longitude": "-48.4904186055064",
+      "posicao": "25",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18423",
+      "latitude": "-1.45900691427037",
+      "longitude": "-48.4927467629313",
+      "posicao": "26",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18424",
+      "latitude": "-1.45485619699651",
+      "longitude": "-48.4983686730266",
+      "posicao": "27",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18425",
+      "latitude": "-1.45485619699651",
+      "longitude": "-48.4988514706492",
+      "posicao": "28",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18426",
+      "latitude": "-1.45560697329718",
+      "longitude": "-48.4987012669444",
+      "posicao": "29",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18427",
+      "latitude": "-1.4573659339367402",
+      "longitude": "-48.4965662285686",
+      "posicao": "30",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18428",
+      "latitude": "-1.4545022595109498",
+      "longitude": "-48.493057899177096",
+      "posicao": "31",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18429",
+      "latitude": "-1.45169220841426",
+      "longitude": "-48.4937123581767",
+      "posicao": "32",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18430",
+      "latitude": "-1.4478525146291599",
+      "longitude": "-48.495922498405",
+      "posicao": "33",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18431",
+      "latitude": "-1.4471875390666502",
+      "longitude": "-48.495772294700096",
+      "posicao": "34",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18432",
+      "latitude": "-1.4437017768818199",
+      "longitude": "-48.491641692817204",
+      "posicao": "35",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18433",
+      "latitude": "-1.44369105145145",
+      "longitude": "-48.4902544878423",
+      "posicao": "36",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18434",
+      "latitude": "-1.44402890248353",
+      "longitude": "-48.4890850447118",
+      "posicao": "37",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18435",
+      "latitude": "-1.4410311431604",
+      "longitude": "-48.487304057925904",
+      "posicao": "38",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18436",
+      "latitude": "-1.43632803158764",
+      "longitude": "-48.4861131571233",
+      "posicao": "39",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18437",
+      "latitude": "-1.43611352227686",
+      "longitude": "-48.486413564532995",
+      "posicao": "40",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18438",
+      "latitude": "-1.43552898430282",
+      "longitude": "-48.48674615845079",
+      "posicao": "41",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18439",
+      "latitude": "-1.42910441948783",
+      "longitude": "-48.4850778244436",
+      "posicao": "42",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18440",
+      "latitude": "-1.4245407151952798",
+      "longitude": "-48.483833279460704",
+      "posicao": "43",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18441",
+      "latitude": "-1.42230980592779",
+      "longitude": "-48.48226686939601",
+      "posicao": "44",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18442",
+      "latitude": "-1.4218807846674502",
+      "longitude": "-48.4812261722982",
+      "posicao": "45",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18443",
+      "latitude": "-1.4251520697618199",
+      "longitude": "-48.4764142893255",
+      "posicao": "46",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18444",
+      "latitude": "-1.42669118097815",
+      "longitude": "-48.4750463627279",
+      "posicao": "47",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18445",
+      "latitude": "-1.4279889673360342",
+      "longitude": "-48.47477277740836",
+      "posicao": "48",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18446",
+      "latitude": "-1.4298444787896",
+      "longitude": "-48.4720905683935",
+      "posicao": "49",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18447",
+      "latitude": "-1.43390943794294",
+      "longitude": "-48.46601804718381",
+      "posicao": "50",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18448",
+      "latitude": "-1.43688575570141",
+      "longitude": "-48.4615870378911",
+      "posicao": "51",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18449",
+      "latitude": "-1.43966364877717",
+      "longitude": "-48.4574403427541",
+      "posicao": "52",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18450",
+      "latitude": "-1.44047878278283",
+      "longitude": "-48.457531537860596",
+      "posicao": "53",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18451",
+      "latitude": "-1.44091316328517",
+      "longitude": "-48.4582181833684",
+      "posicao": "54",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18452",
+      "latitude": "-1.4391541898756202",
+      "longitude": "-48.4602512978017",
+      "posicao": "55",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18453",
+      "latitude": "-1.43143185155952",
+      "longitude": "-48.45506709069011",
+      "posicao": "56",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18454",
+      "latitude": "-1.4016255280839198",
+      "longitude": "-48.43444626778359",
+      "posicao": "57",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18455",
+      "latitude": "-1.34906401558989",
+      "longitude": "-48.452440705150394",
+      "posicao": "58",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18456",
+      "latitude": "-1.34485411104306",
+      "longitude": "-48.4444638155401",
+      "posicao": "59",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18457",
+      "latitude": "-1.34343293143435",
+      "longitude": "-48.444646205753095",
+      "posicao": "60",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18458",
+      "latitude": "-1.34125021246348",
+      "longitude": "-48.4445764683187",
+      "posicao": "61",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18459",
+      "latitude": "-1.34097670208657",
+      "longitude": "-48.4419908188283",
+      "posicao": "62",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18460",
+      "latitude": "-1.34127166425647",
+      "longitude": "-48.4416850470006",
+      "posicao": "63",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18461",
+      "latitude": "-1.3401213115928743",
+      "longitude": "-48.438466396182775",
+      "posicao": "64",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18462",
+      "latitude": "-1.3394214464212875",
+      "longitude": "-48.43864878639579",
+      "posicao": "65",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18463",
+      "latitude": "-1.3384802481167632",
+      "longitude": "-48.43883788213134",
+      "posicao": "66",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18464",
+      "latitude": "-1.338171878223308",
+      "longitude": "-48.438686337322",
+      "posicao": "67",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18465",
+      "latitude": "-1.33796272296916",
+      "longitude": "-48.4373291395605",
+      "posicao": "68",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "18466",
+      "latitude": "-1.3386384552644501",
+      "longitude": "-48.4370233677328",
+      "posicao": "69",
+      "proximidade": "999.0"
+    }
+  ],
+  "itinerarioTotalEncoding": "vpdGbjsfHjGx@{AnFuFf@KxOfA`L|@p@zGy@dAzBnArDxNmAbCNtl@vs@btGopBzcBnp@p`El_CvEvOgMl]x@pA|JkA|dA_ApBfAt@t_AlDpi@~AdEjD~Fl@pM}Xbb@?`BtC]~IkL{P}TqPbC_WxLeC]wTyXAuG`AiFuQcJm\\mFi@z@uB`Acg@mIo[wF_MyHsAoElSa]rHqG`Gu@rJwOjX_e@rQuZjP{X`DPvAfC_JvKgo@m_@iyD{_CogInoBiY{p@{Gb@sLMw@cOz@}@eFcSkCb@{Dd@}@]i@oGdC{@",
+  "emAvaliacao": "false",
+  "faltaCadastrarPontosPesquisa": "true",
+  "tipoDeRota": "Onibus",
+  "distanciaAproximada": "0.0"
+}

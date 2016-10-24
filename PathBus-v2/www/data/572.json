@@ -1,0 +1,192 @@
+{
+  "id": "572",
+  "tipo": "0",
+  "nome": "Canarinho - Pte. Vargas",
+  "codigo": "666",
+  "url": "canarinho--pte-vargas",
+  "sincronizacaoCodigo": "2",
+  "completa": "false",
+  "lastUpdate": "2015-08-28T21:16:12Z",
+  "itinerario": [
+    {
+      "id": "24869",
+      "latitude": "-1.3352437030434832",
+      "longitude": "-48.45883207395673",
+      "posicao": "0",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24870",
+      "latitude": "-1.3383005891400608",
+      "longitude": "-48.45933632925153",
+      "posicao": "1",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24871",
+      "latitude": "-1.3407675470718274",
+      "longitude": "-48.45682578161359",
+      "posicao": "2",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24872",
+      "latitude": "-1.3531559285695924",
+      "longitude": "-48.45935778692365",
+      "posicao": "3",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24873",
+      "latitude": "-1.3749078423891226",
+      "longitude": "-48.462125826627016",
+      "posicao": "4",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24874",
+      "latitude": "-1.3762056574426593",
+      "longitude": "-48.45485754311085",
+      "posicao": "5",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24875",
+      "latitude": "-1.3743608292212446",
+      "longitude": "-48.450276017101714",
+      "posicao": "6",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24876",
+      "latitude": "-1.383842373018167",
+      "longitude": "-48.43788452446461",
+      "posicao": "7",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24877",
+      "latitude": "-1.4077820292750562",
+      "longitude": "-48.459385111927986",
+      "posicao": "8",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24878",
+      "latitude": "-1.4414601608369573",
+      "longitude": "-48.49491901695728",
+      "posicao": "9",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24879",
+      "latitude": "-1.4472947932028182",
+      "longitude": "-48.497150614857674",
+      "posicao": "10",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24880",
+      "latitude": "-1.4528720012851923",
+      "longitude": "-48.49496193230152",
+      "posicao": "11",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24881",
+      "latitude": "-1.4515849544863708",
+      "longitude": "-48.49354572594166",
+      "posicao": "12",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24882",
+      "latitude": "-1.4467370716393197",
+      "longitude": "-48.49521942436695",
+      "posicao": "13",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24883",
+      "latitude": "-1.4429617220681774",
+      "longitude": "-48.492644503712654",
+      "posicao": "14",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24884",
+      "latitude": "-1.4281498498913432",
+      "longitude": "-48.48879285156727",
+      "posicao": "15",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24885",
+      "latitude": "-1.3924658256460714",
+      "longitude": "-48.43500919640064",
+      "posicao": "16",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24886",
+      "latitude": "-1.369341173131045",
+      "longitude": "-48.44681091606617",
+      "posicao": "17",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24887",
+      "latitude": "-1.3762271089252274",
+      "longitude": "-48.45110245049",
+      "posicao": "18",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24888",
+      "latitude": "-1.3770744423318622",
+      "longitude": "-48.46284465864301",
+      "posicao": "19",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24889",
+      "latitude": "-1.3749400196303787",
+      "longitude": "-48.462211657315436",
+      "posicao": "20",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24890",
+      "latitude": "-1.33883688455388",
+      "longitude": "-48.45815096050501",
+      "posicao": "21",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24891",
+      "latitude": "-1.3376999381373924",
+      "longitude": "-48.459256030619144",
+      "posicao": "22",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24892",
+      "latitude": "-1.3368418650213554",
+      "longitude": "-48.459121752530336",
+      "posicao": "23",
+      "proximidade": "999.0"
+    },
+    {
+      "id": "24893",
+      "latitude": "-1.335222251197772",
+      "longitude": "-48.45884280279273",
+      "posicao": "24",
+      "proximidade": "999.0"
+    }
+  ],
+  "itinerarioTotalEncoding": "hxcGvrwfHbRbBjNuNllAxN|fChPbGml@oJs[fz@mlArtCjeCnqE`}Elc@~Lza@uLaG{Gi]lIqVaOs{AaW_~EeoIooCxhA~i@xYhDjhAiL}Bu`FkXcFzEiDYcIw@",
+  "emAvaliacao": "false",
+  "faltaCadastrarPontosPesquisa": "true",
+  "tipoDeRota": "Onibus",
+  "distanciaAproximada": "0.0"
+}

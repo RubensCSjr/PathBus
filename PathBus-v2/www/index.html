@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+  <title>Path Bus</title>
+
+  <link rel="manifest" href="manifest.json">
+
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- un-comment this code to enable service worker
+  <script>
+  if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('service-worker.js')
+  .then(() => console.log('service worker installed'))
+  .catch(err => console.log('Error', err));
+}
+</script>-->
+<!-- <link rel="stylesheet" href="scss/ionic.app.scss"> -->
+
+<!-- compiled css output -->
+<link href="css/ionic.app.css" rel="stylesheet">
+
+<!-- ionic/angularjs js -->
+<script src="lib/ionic/js/ionic.bundle.js"></script>
+
+<!-- cordova script (this will be a 404 during development) -->
+<script src="cordova.js"></script>
+<script src="lib/ngCordova/dist/ng-cordova.js"></script>
+<script src="lib/ngCordova/dist/ng-cordova.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCENIjlyxSclwXEm3R7B1Eok8dbBIsU62U"></script>
+<script src="lib/ionic/js/angular/angular-resource.min.js"></script>
+
+<!-- your app's js -->
+<script src="js/app.js"></script>
+<script src="js/router.js"></script>
+<script src="js/controllers/home-controller.js"></script>
+<script src="js/controllers/login-controller.js"></script>
+<script src="js/controllers/onibus-controller.js"></script>
+<script src="js/services/onibusService.js"></script>
+<!-- <script src="js/services/usuario-services.js"></script> -->
+</head>
+<body ng-app="starter">
+
+  <ion-pane>
+    <ion-nav-view>
+      <ion-nav-bar class="bar bar-positive"><ion-nav-back-button></ion-nav-back-button></ion-nav-bar>
+    </ion-nav-view>
+    <ion-footer-bar class="bar-positive tabs tabs-icon-left">
+      <!-- <div class="bar-positive tabs tabs-icon-left"> -->
+        <a class="tab-item" href="#/home">
+          <i class="icon ion-map"></i>
+        </a>
+        <a class="tab-item" href="#/listOnibus">
+          <i class="icon ion-navicon"></i>
+        </a>
+        <!-- <a class="tab-item" href="#/">
+        <i class="icon ion-search"></i>
+      </a> -->
+      <a class="tab-item" href="#/login">
+        <i class="icon ion-log-in"></i>
+      </a>
+      <!-- <a class="tab-item " href="#/login">
+      <i class="icon ion-log-out"></i>
+    </a> -->
+  <!-- </div> -->
+    </ion-footer-bar>
+</ion-pane>
+</body>
+</html>
